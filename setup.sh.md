@@ -6,13 +6,13 @@ title: setup.sh | albud.ca
 
 # setup.sh 
 
-Ubuntu setup script for things that I commonly need when setting up new a new development environment.
+A bash script that configures a Ubuntu box as my development environment.
 
 ```bash
 curl https://albud.ca/setup.sh | bash
 ```
 
-## What it does
+## What It Does
 
 ### Installs
 claude, deno, docker, ghostty, google chrome, lazydocker, lazygit, l2tp support, mattermost, mise, neovim, node, vscode, spotify, wget
@@ -21,5 +21,4 @@ claude, deno, docker, ghostty, google chrome, lazydocker, lazygit, l2tp support,
 firefox
 
 ### Sets up
-
 ssh keys, per-monitor scaling
