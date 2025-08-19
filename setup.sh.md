@@ -1,6 +1,9 @@
 ---
 title: setup.sh | albud.ca
 ---
+
+[back](/)
+
 # setup.sh 
 
 Ubuntu setup script for things that I commonly need when setting up new a new development environment.
