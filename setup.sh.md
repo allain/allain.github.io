@@ -1,5 +1,5 @@
 ---
-title: setup.sh -albud.ca
+title: setup.sh | albud.ca
 ---
 # setup.sh 
 
