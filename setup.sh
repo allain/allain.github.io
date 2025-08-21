@@ -73,7 +73,7 @@ install_apt neovim
 install_snap mattermost-desktop
 install_snap spotify
 install_snap code --classic
-install_snap ghostty --classic
+install_apt tilix
 install_apt network-manager-l2tp-gnome
 
 # Install Chrome
